@@ -1,7 +1,7 @@
-import XO211541271
+import XO_Game
 
 def main():
-    XO211541271.start_game()
+    XO_Game.start_game()
 
 if __name__ == '__main__':
     main()
